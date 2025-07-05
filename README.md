@@ -16,7 +16,7 @@ This tool allows you to create a wallet, check the wallet information, send XRP 
 
 ### Installation
 1. Download the tool
-`git clone https://github.com/your-username/xrp-ledger-wallet.git && cd xrp-ledger-wallet`
+`git clone https://github.com/rafaelvidallykova/xrp-ledger-wallet.git && cd xrp-ledger-wallet`
 
 2. Install requirements
 `pip install -r requirements.txt`
