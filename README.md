@@ -36,3 +36,6 @@ MIT - see [LICENSE](LICENSE) for details.
 ## Author
 Created by **Rafael Vidal Lykova**
 Feel free to fork, use, and contribute!
+
+## Screenshots
+![Wallet Screenshot](screenshot.png)
